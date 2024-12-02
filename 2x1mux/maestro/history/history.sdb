@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<setupdb version="7">history
+	<active>Active Setup</active>
+	<history>History
+		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.0
+			<timestamp>Dec 1 20:59:06 2024</timestamp>
+			<uuid>{4191f84b-aa13-4745-992e-3a7229ff6c05}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname></resultsname>
+			<simresults></simresults>
+			<runlog></runlog>
+			<runlogfile></runlogfile>
+			<psfdir></psfdir>
+			<simdir></simdir>
+		</historyentry>
+	</history>
+</setupdb>
